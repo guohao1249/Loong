@@ -1,0 +1,36 @@
+
+For Loong64
+
+K = 'e0d370d90124b3ae'
+round = 16
+
+right pairs:
+
+1. 
+P0 = 'e7a68bcbbf1a8d4e'
+P1 = 'e7a68bcb1a658d4e'
+diff_in = '00000000a57f0000'
+
+C0 = 'FF51728E1A1F5847'
+C1 = 'ff51728ebf605847'
+diff_out = '00000000a57f0000'
+
+2. 
+P0 = 'ee0cf6871060498b'
+P1 = 'ee0cf687b51f498b'
+diff_in = '00000000a57f0000'
+
+C0 = 'a6b1e8cbcac00fec'
+C1 = 'a6b1e8cb6fbf0fec'
+diff_out = '00000000a57f0000'
+
+3. 
+P0 = 3788a0056abf50bc
+P1 = 3788a005cfc050bc
+diff_in = '00000000a57f0000'
+
+C0 = '7fa6aa70034ba6c0'
+C1 = '7fa6aa703e56a6c0'
+diff_out = '00000000a57f0000'
+
+
